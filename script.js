@@ -1,0 +1,1 @@
+document.querySelectorAll('nav a').forEach(a=>a.onclick=()=>document.body.classList.remove('open'));
